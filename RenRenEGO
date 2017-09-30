@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://169.254.162.77/RenRenEGo.ipa</string>
+                        <string>http://60.205.181.254:8080/iosFile/RenRenEGo.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
